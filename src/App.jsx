@@ -296,12 +296,32 @@ const sendEmail = (e) => {
         Who I Am
       </h2>
 
-      <p className="about-text">
-        I am a Full Stack Developer who loves building
-        web applications. I enjoy turning ideas into
-        real products. I focus on writing clean,
-        efficient and maintainable code.
-      </p>
+     <p className="about-text">
+
+  I’m Gaurav Singh Parmar, a passionate Full Stack Developer
+  and a B.Tech final year student who enjoys building modern,
+  responsive, and user-friendly web applications.
+
+  <br /><br />
+
+  I love turning creative ideas into real-world digital products
+  using clean and efficient code. Currently, I am improving my
+  frontend and backend development skills by building real-world
+  projects and exploring modern web technologies.
+
+  <br /><br />
+
+  I have experience working with technologies like React,
+  JavaScript, Node.js, MongoDB, Express.js, and Tailwind CSS.
+  I enjoy solving problems, learning new technologies,
+  and creating smooth user experiences.
+
+  <br /><br />
+
+  My goal is to become a skilled software developer and work on
+  impactful projects that help people and improve my development journey.
+
+</p>
 
     </div>
 
@@ -337,7 +357,7 @@ const sendEmail = (e) => {
     </h3>
 
     <p>
-      I build fast and optimized apps.
+      I build fast and optimized web applications.
     </p>
 
   </div>
@@ -497,7 +517,7 @@ const sendEmail = (e) => {
           </h3>
 
           <p>
-            A movie recommendation system using collaborative filtering and content based filtering.
+            Built an embedding-based movie recommendation engine using Vector Embeddings and Pinecone. Integrated Groq LLM API for intelligent similarity search and dynamic results. Implemented secure authentication and deployed full-stack application using Next.js, Node.js, and MongoDB.
           </p>
 
           <div className="project-links">
@@ -532,7 +552,7 @@ const sendEmail = (e) => {
           </h3>
 
           <p>
-            A civic complaint system for citizens to report issues and track their status.
+            Developed a full-stack complaint tracking platform with role-based access control for users and admins. Designed and implemented secure CRUD REST APIs for complaint creation, status updates, and data management. Integrated authentication and protected routes. Deployed production-ready application using Next.js, Node.js, and MongoDB.
           </p>
 
           <div className="project-links">
@@ -567,7 +587,7 @@ const sendEmail = (e) => {
           </h3>
 
           <p>
-            An AI chatbot using OpenAI API for natural language processing and response generation.
+            Built an AI chatbot interface with responsive design and API integration for real-time conversations.
           </p>
 
           <div className="project-links">
@@ -598,17 +618,17 @@ const sendEmail = (e) => {
       <div className="project-card">
 
         <img
-          src="/image1.png"
+          src="/Airbnb.png"
           alt="project"
           className="project-img"
         />
 
         <div className="project-content">
 
-          <h3>Portfolio Website</h3>
+          <h3>Airbnb Website</h3>
 
           <p>
-            Responsive portfolio website with React.
+           Currently working on it, will be deployed soon.
           </p>
 
           <div className="project-links">
@@ -617,7 +637,7 @@ const sendEmail = (e) => {
               Live Demo
             </a>
 
-            <a href="/">
+            <a href="https://github.com/Gaurav-Singh-Parmar/Airbnb-website">
               GitHub
             </a>
 
@@ -628,7 +648,7 @@ const sendEmail = (e) => {
       </div>
 
       {/* CARD 5 */}
-      <div className="project-card">
+      {/* <div className="project-card">
 
         <img
           src="/image1.png"
@@ -658,10 +678,10 @@ const sendEmail = (e) => {
 
         </div>
 
-      </div>
+      </div> */}
 
       {/* CARD 6 */}
-      <div className="project-card">
+      {/* <div className="project-card">
 
         <img
           src="/image1.png"
@@ -691,7 +711,7 @@ const sendEmail = (e) => {
 
         </div>
 
-      </div>
+      </div> */}
 
     </div>
 
