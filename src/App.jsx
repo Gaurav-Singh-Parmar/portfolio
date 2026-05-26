@@ -517,7 +517,7 @@ const sendEmail = (e) => {
           </h3>
 
           <p>
-            Built an embedding-based movie recommendation engine using Vector Embeddings and Pinecone. Integrated Groq LLM API for intelligent similarity search and dynamic results. Implemented secure authentication and deployed full-stack application using Next.js, Node.js, and MongoDB.
+           Developed a full-stack movie recommendation application using Next.js, Node.js, and MongoDB. Integrated API-based recommendation features and dynamic movie search functionality. Implemented secure authentication and designed responsive user interface components. Deployed the application on Vercel with optimized performance.
           </p>
 
           <div className="project-links">
